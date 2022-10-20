@@ -22,3 +22,6 @@ Ordering system made for Infonec written in VBA in Microsoft Excel, using a Micr
     - order status (active/inactive)
 - resize window
 - refresh window
+
+## RMA Tool
+Currently archived, probably won't finish it.
